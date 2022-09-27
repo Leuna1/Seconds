@@ -1,0 +1,17 @@
+QLabel {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight:700;
+    letter-spacing: 5px;
+    color: rgba(240,240,240,.5);
+    opacity: 0.5;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(15,32,50,.35);
+}
+
+QLabel:hover {
+    font-size: 20px;
+    color: rgba(240,240,240,1);
+    background-color: rgba(15,32,50,.9);
+}
